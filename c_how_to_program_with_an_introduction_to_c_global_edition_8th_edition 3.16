@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main(){
+	int totalCollection,month,sales,totalSalesTax,countryTax,stateTax,b=100;
+    printf("enter total amount collected :");
+    scanf("%d",&totalCollection);
+    printf("enter name of month :");
+    scanf("%s",&month);
+    printf("enter country tax percent :");
+    scanf("%d",&countryTax);
+    printf("enter state tax percent :");
+    scanf("%d",&stateTax);
+    float countryTaxperc=totalCollection*countryTax/100;
+    printf("total country tax %.2f\n",countryTaxperc);
+    float stateTaxperc=totalCollection*stateTax/100;
+    printf("total state tax %.2f\n ",stateTaxperc);
+    totalSalesTax=countryTaxperc+stateTaxperc;
+    printf("total sales tax are %d \%\n",totalSalesTax);
+    sales=totalCollection-totalSalesTax;
+    printf("total sales %d\n",sales);
+	return 0;
+}
