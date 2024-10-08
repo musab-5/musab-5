@@ -22,7 +22,7 @@
 - 📄 Check out my experiences: [Musab Umair CV](https://musab-umair-cv.tiiny.site)
 
 - ⚡ Fun fact: **I enjoy learning new technologies and consider myself a quick learner**
-<br>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/musab umair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="musab umair" height="30" width="40" /></a>
