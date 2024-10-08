@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Musab+Umair" alt="Typing SVG" />
   </a>
 </h1>
-<h1 align="center">Hi 👋, I'm Musab Umair</h1>
 <h3 align="center">Software Engineer | AI & Machine Learning | Computer Vision | Data Analyst | Agile Project Management | Freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab-5&label=Profile%20views&color=0e75b6&style=flat" alt="musab-5" /> </p>
