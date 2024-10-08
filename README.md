@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/musab-5">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Musab+Umair" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Musab+Umair" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">Software Engineer | AI & Machine Learning | Computer Vision | Data Analyst | Agile Project Management | Freelancer</h3>
