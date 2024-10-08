@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musab Umair</h1>
 <h3 align="center">Software Engineer | Artificial Intelligence | Computer Vision | Data Analyst | Agile Project Management | Freelancer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musab-5&label=Profile%20views&color=0e75b6&style=flat" alt="musab-5" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musab-5" alt="musab-5" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -22,10 +20,6 @@
 - 📄 Know about my experiences [https://musab-umair-cv.tiiny.site](https://musab-umair-cv.tiiny.site)
 
 - ⚡ Fun fact **I think I am funny 😄**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
