@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, Computer Vision, Agile Project Management, Data Science, and Business Intelligence**
 
-- 📫 How to reach me **musabumair.net**
+- 📫 How to reach me **[musabumair.net](https://musabumair.net/)**
 
 - 📄 Check out my experiences: [Musab Umair CV](https://musab-umair-cv.tiiny.site)
 
