@@ -6,9 +6,7 @@
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
-<img src ="https://musabumair.net/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=🤖+Building+Production+AI+Systems;👁️+Computer+Vision+%26+YOLOv8+Expert;🧠+RAG+%26+LLM+Application+Developer;📊+Data+Analytics+%26+BI+Specialist;🚀+From+Research+to+Real-World+Impact" alt="Typing SVG" />
-</br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=🤖+Building+Production+AI+Systems;👁️+Computer+Vision+%26+YOLOv8+Expert;🧠+RAG+%26+LLM+Application+Developer;📊+Data+Analytics+%26+BI+Specialist;🚀+From+Research+to+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
 
@@ -340,7 +338,7 @@
 
 <!-- ══════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
 
-<h2 align="center">🐍 &nbsp; CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">🐍 &nbsp; CONTRIBUTION SNAKE</h2>
 
 <br/>
 
@@ -348,7 +346,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musab-5/musab-5/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musab-5/musab-5/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musab-5/musab-5/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/212284158-e840e285-a377-4b95-8228-d9e605d03356.gif" width="800" />
   </picture>
 </div>
 
