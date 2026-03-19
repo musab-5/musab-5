@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=musab-5&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <a href="https://musabumair.net/"><img src="https://img.shields.io/badge/Portfolio-musabumair.net-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:musab1507@gmail.com"><img src="https://img.shields.io/badge/Email-musab1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/musab-umair"><img src="https://img.shields.io/badge/LinkedIn-Musab_Umair-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/musab-umair-822b98238/"><img src="https://img.shields.io/badge/LinkedIn-Musab_Umair-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
