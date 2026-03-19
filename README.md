@@ -333,7 +333,7 @@
   <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
 </a>
 &nbsp;
-<a href="https://dev.to/musabumair" target="_blank">
+<a href="https://dev.to/musab_umair_3636110a44a95" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35"/>
 </a>
 &nbsp;
