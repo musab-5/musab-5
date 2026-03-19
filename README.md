@@ -252,10 +252,10 @@
 <br/>
 
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
-<!-- FIX: added &cache_seconds=86400 to reduce rate-limit errors -->
+
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musab-5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&cache_seconds=86400" />
+  <img src="https://github-profile-trophy-two-eta.vercel.app/?username=musab-5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
 </div>
 
 <br/>
