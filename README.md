@@ -23,7 +23,7 @@
 - 💡 **Ask me about:** Computer Vision · LangChain & RAG · AI Deployment · Data Science · Business Intelligence.
 - 🎓 **B.S. Software Engineering** — Sindh Madressatul Islam University, Karachi | **CGPA: 3.5 / 4.0** *(2022–2026)*
 - 📍 **Location:** Karachi, Pakistan
-- 📄 **CV:** [View My Resume](https://musab-umair-cv.tiiny.site)
+- 📄 **CV:** [View My Resume](https://musabumair-cv.tiiny.site)
 
 ---
 
