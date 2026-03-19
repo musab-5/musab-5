@@ -6,9 +6,9 @@
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
-<a href="https://musabumair.net/">
+<img src ="https://musabumair.net/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=🤖+Building+Production+AI+Systems;👁️+Computer+Vision+%26+YOLOv8+Expert;🧠+RAG+%26+LLM+Application+Developer;📊+Data+Analytics+%26+BI+Specialist;🚀+From+Research+to+Real-World+Impact" alt="Typing SVG" />
-</a>
+</br>
 
 <br/>
 
