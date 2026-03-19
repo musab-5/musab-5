@@ -19,7 +19,7 @@
 
 - 🔭 **Currently:** Deployed a **YOLOv8 meter-validation system** (82% accuracy, 17K-image dataset) as a live Django app at **SSGC**, processing **50,000+ operational records** through Power BI dashboards.
 - 🤖 **Built at DevTech Solutions:** RAG knowledge assistant (policy lookups in **<10 seconds**), **30 FPS** real-time object detection pipeline, and ARIMA-based sales forecasting model.
-- 🌱 **Currently Learning:** Advanced ML techniques, Microsoft Azure AI Services, Flutter Mobile App Development.
+- 🌱 **Currently Learning:** Advanced ML techniques, Microsoft Azure AI Services, Automation Tools (n8n, zapier).
 - 💡 **Ask me about:** Computer Vision · LangChain & RAG · AI Deployment · Data Science · Business Intelligence.
 - 🎓 **B.S. Software Engineering** — Sindh Madressatul Islam University, Karachi | **CGPA: 3.5 / 4.0** *(2022–2026)*
 - 📍 **Location:** Karachi, Pakistan
