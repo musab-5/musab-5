@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# FIX: grant the Actions bot permission to write back to the repo
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
