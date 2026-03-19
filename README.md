@@ -39,7 +39,7 @@
 
 <br/>
 
-🏆 &nbsp; **AI Engineer** specializing in **Computer Vision**, **RAG**, and **ML Forecasting** — shipping production systems that create measurable business impact.
+🏆 &nbsp; **AI Engineer** specializing in **Computer Vision**, **RAG**, and **ML Forecasting** — deployed production systems that create measurable business impact.
 
 🔭 &nbsp; **Currently:** Deployed a **YOLOv8 meter-validation app** (82% accuracy, 17K images) live at **SSGC**, serving field operators across Pakistan.
 
