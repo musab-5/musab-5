@@ -253,9 +253,14 @@
 
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
 
-
 <div align="center">
-  <img src="https://github-profile-trophy-two-eta.vercel.app/?username=musab-5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+  <img src="https://img.shields.io/github/stars/musab-5?style=for-the-badge&logo=github&label=Total%20Stars&color=00D4FF&labelColor=1a1b27&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/musab-5?style=for-the-badge&logo=github&label=Followers&color=0A84FF&labelColor=1a1b27&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/github/commit-activity/y/musab-5/musab-5?style=for-the-badge&logo=github&label=Commits%2FYear&color=FF6B6B&labelColor=1a1b27&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-FFD700?style=for-the-badge&logo=python&labelColor=1a1b27&logoColor=white" />
 </div>
 
 <br/>
