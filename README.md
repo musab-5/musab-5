@@ -299,7 +299,7 @@
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 🏆 Grade |
 |:---|:---|:---:|:---:|
-| **B.S. Software Engineering** | Sindh Madressatul Islam University, Karachi | **CGPA: 3.5 / 4.0** |
+| **B.S. Software Engineering** | Sindh Madressatul Islam University, Karachi | 2025 | **CGPA: 3.5 / 4.0** |
 | Intermediate — Computer Science | Govt. Islamia Science College, Karachi | 2019 – 2021 | **A+** |
 | Matriculation (Science) | Al-Kamran Public School, Karachi | 2019 | **A+** |
 
